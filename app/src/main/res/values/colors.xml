@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Material Design 3 colors -->
+    <color name="md_primary">#006C51</color>
+    <color name="md_primary_dark">#005543</color>
+    <color name="md_secondary">#4CAF50</color>
+    <color name="md_secondary_dark">#388E3C</color>
+    <color name="md_background">#FAFAFA</color>
+    <color name="md_surface">#FFFFFF</color>
+    <color name="md_on_surface">#1C1B1F</color>
+
+    <!-- Accent colors -->
+    <color name="md_error">#DC3545</color>
+    <color name="md_success">#28A745</color>
+    <color name="md_warning">#FFC107</color>
+    <color name="md_info">#17A2B8</color>
+</resources>
